@@ -19,9 +19,9 @@
 
 ## Projects
 ### Automatic Disc Herniation Segmentation and Classification Using Deep Learning Models on Lumbar Spine Magnetic Resonance Images
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project](https://github.com/EmmanuelAguagwa/Automatic-Disc-Herniation-Segmentation-and-Classification/tree/main)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Disc herniation is a common spinal disorder that can cause back pain and other related symptoms. Accurate diagnosis and treatment of disc herniation are critical for patients' quality of life. However, manual diagnosis of disc herniation can be time-consuming and subject to inter-observer variability. Therefore, the development of an automated tool that can accurately segment and classify disc herniations can greatly assist medical professionals in the diagnosis and treatment of this condition.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
