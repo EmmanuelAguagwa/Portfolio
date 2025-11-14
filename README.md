@@ -4,7 +4,7 @@
 
 ## Education
 - MSc., Applied Data Science (with Advanced Practise)| Teesside University Midddlesbrough | DISTICTION (_August 2023_)
-- BSc., Biochemistry| Abia State University, Uturu, Abia state, Nigeria | Merit (_February 2016_)	
+- BSc., Biochemistry| Abia State University, Uturu, Abia state, Nigeria | MERIT (_February 2016_)	
 
 
 ## Work Experience
