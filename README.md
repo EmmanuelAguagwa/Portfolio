@@ -38,10 +38,12 @@
 ## Projects
 ### Automatic Disc Herniation Segmentation and Classification Using Deep Learning Models on Lumbar Spine Magnetic Resonance Images
 [Project](https://github.com/EmmanuelAguagwa/Automatic-Disc-Herniation-Segmentation-and-Classification/tree/main)
+
 Disc herniation is a common spinal disorder that can cause back pain and other related symptoms. Accurate diagnosis and treatment of disc herniation are critical for patients' quality of life. However, manual diagnosis of disc herniation can be time-consuming and subject to inter-observer variability. Therefore, the development of an automated tool that can accurately segment and classify disc herniations can greatly assist medical professionals in the diagnosis and treatment of this condition.
 
 ### Facial Recognition Attendance System
 [Project](https://github.com/EmmanuelAguagwa/Facial-Recognition-Attendance-System/tree/main/Face%20recognition%20attendance)
+
 This project is a real-time attendance system that identifies individuals from live camera footage and automatically records their attendance. It uses a full computer vision pipeline that detects faces, generates embeddings with deep learning models and matches them against a stored database. The system was built using Python, machine learning techniques and OpenCV, with a focus on operating reliably in dynamic CCTV-style environments.
 The workflow includes face detection, alignment, feature extraction, similarity matching and attendance logging. It handles challenges like lighting changes, movement, multiple faces and partial occlusions. The system is designed to run with low latency, maintain accurate recognition and store secure logs for auditing and analysis. It also incorporates considerations for privacy, data security and real-world deployment.
 This project demonstrates how computer vision and deep learning can automate tasks like attendance tracking while maintaining accuracy, speed and reliability in real-time conditions.
