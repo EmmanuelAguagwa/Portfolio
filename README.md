@@ -8,7 +8,7 @@
 
 
 ## Work Experience
-**Community Healthcare Clinician (Data & Clinical Focus) TEWV NHS Trust, UK (Hybrid) - November 2024 - present**
+**Community Healthcare Clinician (Data & Clinical Focus) | TEWV NHS Trust, UK (Hybrid) | November 2024 - present**
 - Collect, organise and record patient data to support assessments, care planning and outcome tracking across clinical pathways.
 - Analyse caseload trends, appointment patterns and service activity to help the team plan capacity and improve workflow.
 - Use electronic health record systems to extract information, update clinical notes and maintain accurate, compliant data.
@@ -18,7 +18,7 @@
 - Collaborate with clinicians and service leads to support decision-making using a mix of data insights and clinical information.
 - Track outcomes from interventions to help evaluate effectiveness and support service improvement work.
   
-**Data Analyst Ralph Textiles (E-commerce Brand) Remote - Part time - May 2018 - May -2023**
+**Data Analyst | Ralph Textiles (E-commerce Brand) Remote - Part time | May 2018 - May -2023**
 - Used SQL, Excel, and Power BI to extract, clean, and analyse large datasets covering sales, customer behavior, and product performance.
 - Produced weekly and monthly performance reports to track revenue, conversion rate, AOV, customer retention and marketing ROI.
 - Developed and maintained dashboards to support decision-making across marketing, operations, and leadership teams.
@@ -50,7 +50,7 @@ This project demonstrates how computer vision and deep learning can automate tas
 
 
 ## Publication
-#Machine Learning Techniques for Predicting Customer Churn in A Credit Card Company.
+**Machine Learning Techniques for Predicting Customer Churn in A Credit Card Company.**
 Chang, Victor & Gao, Xianghua & Hall, Karl & Aguagwa, Emmanuel. (2022). Machine Learning Techniques for Predicting Customer Churn in A Credit Card Company. 199-207. 10.1109/IIoTBDSC57192.2022.00045. 
 [Document](https://www.researchgate.net/publication/369497821_Machine_Learning_Techniques_for_Predicting_Customer_Churn_in_A_Credit_Card_Company)
 
