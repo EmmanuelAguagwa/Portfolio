@@ -2,9 +2,14 @@
 
 #### Technical Skills: Tools: PostgreSQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), Excel, Power BI, Azure, Github
 
+## Hello :)
+I come from a data science background with a Master’s in Applied Data Science, and I’ve built my experience around making complex information easy to understand and useful in real situations. I’ve worked with statistical modelling, machine learning and data visualisation, using tools like Python, SQL and cloud-based analytics to solve problems and support decision-making. I enjoy collaborating with different teams, breaking down challenges and turning raw data into insights that actually drive results.
+
+Outside of data, I’m passionate about photography. It’s my way of slowing down, noticing details and experimenting with creativity. That same eye for detail and appreciation for structure shows up in how I approach data projects. Whether I’m analysing patterns or capturing moments through a lens, I’m always looking for the story beneath the surface.
+
 ## Education
 - MSc., Applied Data Science (with Advanced Practise)| Teesside University Midddlesbrough | DISTICTION (_August 2023_)
-- BSc., Biochemistry| Abia State University, Uturu, Abia state, Nigeria | MERIT (_February 2016_)	
+- BSc., Biochemistry| Abia State University, Uturu, Abia state, Nigeria | MERIT (_February 2016_)
 
 
 ## Work Experience
