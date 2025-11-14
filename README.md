@@ -27,7 +27,6 @@
 - Supported A/B testing by producing pre- and post-analysis on pricing, product placement and promotional strategies.
 - Monitored data quality and carried out validation checks to ensure accuracy, completeness and consistency across sources.
 
-
 **Facial Recognition Systems Developer @ Dynamic CCTV (Internship with TU) September 2022 - December 2022**
 - Developed and implemented a Facial Recognition Attendance System, enhancing efficiency and accuracy in staff time tracking.
 - Designed and integrated a Facial Recognition Access Authentication System, improving site security by automating identity verification for authorized personnel.
@@ -42,25 +41,17 @@
 
 Disc herniation is a common spinal disorder that can cause back pain and other related symptoms. Accurate diagnosis and treatment of disc herniation are critical for patients' quality of life. However, manual diagnosis of disc herniation can be time-consuming and subject to inter-observer variability. Therefore, the development of an automated tool that can accurately segment and classify disc herniations can greatly assist medical professionals in the diagnosis and treatment of this condition.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Facial Recognition Attendance System
+[Publication](https://github.com/EmmanuelAguagwa/Facial-Recognition-Attendance-System/tree/main/Face%20recognition%20attendance)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+This project is a real-time attendance system that identifies individuals from live camera footage and automatically records their attendance. It uses a full computer vision pipeline that detects faces, generates embeddings with deep learning models and matches them against a stored database. The system was built using Python, machine learning techniques and OpenCV, with a focus on operating reliably in dynamic CCTV-style environments.
+The workflow includes face detection, alignment, feature extraction, similarity matching and attendance logging. It handles challenges like lighting changes, movement, multiple faces and partial occlusions. The system is designed to run with low latency, maintain accurate recognition and store secure logs for auditing and analysis. It also incorporates considerations for privacy, data security and real-world deployment.
+This project demonstrates how computer vision and deep learning can automate tasks like attendance tracking while maintaining accuracy, speed and reliability in real-time conditions.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Certifications
+## Publication
+#Machine Learning Techniques for Predicting Customer Churn in A Credit Card Company.
+Chang, Victor & Gao, Xianghua & Hall, Karl & Aguagwa, Emmanuel. (2022). Machine Learning Techniques for Predicting Customer Churn in A Credit Card Company. 199-207. 10.1109/IIoTBDSC57192.2022.00045. 
+[Document](https://www.researchgate.net/publication/369497821_Machine_Learning_Techniques_for_Predicting_Customer_Churn_in_A_Credit_Card_Company)
 
 
