@@ -1,4 +1,5 @@
 title: Emmanuel Aguagwa
 logo: assets/img/PORTFOLIO_DP1.png
 #description: text here
+show_downloads: true
 theme: jekyll-theme-minimal
