@@ -8,8 +8,8 @@ I come from a data science background with a Master’s in Applied Data Science,
 Outside of data, I’m passionate about photography. It’s my way of slowing down, noticing details and experimenting with creativity. That same eye for detail and appreciation for structure shows up in how I approach data projects. Whether I’m analysing patterns or capturing moments through a lens, I’m always looking for the story beneath the surface.
 
 ## Education
-- MSc., Applied Data Science (with Advanced Practise)| Teesside University Midddlesbrough | DISTICTION (_August 2023_)
-- BSc., Biochemistry| Abia State University, Uturu, Abia state, Nigeria | MERIT (_February 2016_)
+- MSc., Applied Data Science (with Advanced Practise)| Teesside University Midddlesbrough, UNITED KINGDOM | DISTICTION (_August 2023_)
+- BSc., Biochemistry| Abia State University, Uturu, Abia state, NIGERIA | MERIT (_February 2016_)
 
 
 ## Work Experience
