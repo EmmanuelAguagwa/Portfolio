@@ -46,7 +46,7 @@ Outside of data, I’m passionate about photography. It’s my way of slowing do
 
 Disc herniation is a common spinal disorder that can cause back pain and other related symptoms. Accurate diagnosis and treatment of disc herniation are critical for patients' quality of life. However, manual diagnosis of disc herniation can be time-consuming and subject to inter-observer variability. Therefore, the development of an automated tool that can accurately segment and classify disc herniations can greatly assist medical professionals in the diagnosis and treatment of this condition.
 
-![Herniation detection](assets/img/Axial view (1).jpg)
+![Herniation detection](assets/img/Axial_view.png)
 
 
 ### Stroke Prediction Using Machine Learning
