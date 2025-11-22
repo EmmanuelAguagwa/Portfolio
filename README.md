@@ -54,7 +54,7 @@ I built a machine learning project focused on predicting stroke risk using real 
 I followed the CRISP-DM workflow from start to finish. This included exploring the data, handling imbalance, engineering useful features and testing several models. After comparing performance, the XGBoost classifier delivered the strongest results and became the final choice for prediction.
 
 The project highlights how data science can support clinical teams by turning complex health data into practical insights. It also shows my ability to manage real-world data issues, evaluate models properly and build solutions with clear impact.
-
+[IMG](assets/img/output_18_0.png)
 
 
 
