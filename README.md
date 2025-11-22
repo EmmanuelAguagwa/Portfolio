@@ -46,6 +46,18 @@ Outside of data, I’m passionate about photography. It’s my way of slowing do
 
 Disc herniation is a common spinal disorder that can cause back pain and other related symptoms. Accurate diagnosis and treatment of disc herniation are critical for patients' quality of life. However, manual diagnosis of disc herniation can be time-consuming and subject to inter-observer variability. Therefore, the development of an automated tool that can accurately segment and classify disc herniations can greatly assist medical professionals in the diagnosis and treatment of this condition.
 
+
+### Stroke Prediction Using Machine Learning
+[Project](https://github.com/EmmanuelAguagwa/Stroke-Prediction-Using-Machine-Learning)
+
+I built a machine learning project focused on predicting stroke risk using real patient data. The goal was to support early intervention by identifying high-risk individuals before a medical emergency occurs. The dataset contained records from 5,110 people and was highly imbalanced, which made the modelling process more challenging and meaningful.
+I followed the CRISP-DM workflow from start to finish. This included exploring the data, handling imbalance, engineering useful features and testing several models. After comparing performance, the XGBoost classifier delivered the strongest results and became the final choice for prediction.
+
+The project highlights how data science can support clinical teams by turning complex health data into practical insights. It also shows my ability to manage real-world data issues, evaluate models properly and build solutions with clear impact.
+
+
+
+
 ### Facial Recognition Attendance System
 [Project](https://github.com/EmmanuelAguagwa/Facial-Recognition-Attendance-System/tree/main/Face%20recognition%20attendance)
 
